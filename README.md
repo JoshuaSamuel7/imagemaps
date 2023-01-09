@@ -41,4 +41,4 @@ Include pictures and contents for your subpages and map them using urls and view
 ![imagemap](imgmap/static/images/imagemap.png)
 
 ## Result:
-Thus a website is developed to display details about the places around my house
+Thus a website is developed to display details about the places around my house.
